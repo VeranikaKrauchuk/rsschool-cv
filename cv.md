@@ -19,3 +19,23 @@ My goal is to become a good Front End developer.
 + SASS
 + JavaScript (Basic)
 + VS Code
+
+## Code ##
+
+```JavaScript
+
+function capitalizeWord(word) {
+  let str = word.charAt(0).toUpperCase() + word.slice(1);
+  return str;
+}
+capitalizeWord('justin');
+
+```
+
+## Courses ##
+
++ RS Schools Course «JavaScript/Front-end. Stage 0»
+
+## English ##
+
++ Pre-intermediate
