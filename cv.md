@@ -11,6 +11,14 @@ Having passed the front-end preparatory course, I gained a lot of experience in 
 solving various problems. Also in the process of training, I gained a lot of experience in communication.
 My goal is to become a good Front End developer.
 
+## Skills
+
++ HTML5
++ CSS3
++ SASS
++ JavaScript (Basic)
++ VS Code
+
 ## Code
 
 ~~~console.log("Start");
